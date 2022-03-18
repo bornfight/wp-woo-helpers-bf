@@ -1,0 +1,17 @@
+{
+  "name": "bornfight/wp-woo-helpers-bf",
+  "description": "WooCommerce package for WP development used at Bornfight",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "WP team",
+      "email": "wpadmin@bornfight.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "bornfight\\wpWooHelpers\\": "src"
+    }
+  }
+}
